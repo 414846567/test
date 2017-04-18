@@ -1,0 +1,67 @@
+1490607909347	geckodriver	INFO	Listening on 127.0.0.1:51068
+1490607910420	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Q0PXKWORunIU
+1490607910421	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490607910438	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50520
+Xlib:  extension "RANDR" missing on display "localhost:11.0".
+1490609226314	geckodriver	INFO	Listening on 127.0.0.1:52334
+1490609227375	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.SQiNx8G4M2Ep
+1490609227376	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490609227390	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49359
+Xlib:  extension "RANDR" missing on display "localhost:11.0".
+1490664072145	geckodriver	INFO	Listening on 127.0.0.1:52003
+1490664073208	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NwBlmB9WVdRp
+1490664073209	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490664073232	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55271
+Xlib:  extension "RANDR" missing on display "localhost:11.0".
+1490664154879	geckodriver	INFO	Listening on 127.0.0.1:40656
+1490664155941	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.25vlWKjQEADp
+1490664155942	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490664155956	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37708
+Xlib:  extension "RANDR" missing on display "localhost:11.0".
+1490771542556	geckodriver	INFO	Listening on 127.0.0.1:34105
+1490771543619	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ysUM7cMWbzKW
+1490771543620	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490771543625	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44354
+Xlib:  extension "RANDR" missing on display "localhost:15.0".
+JavaScript error: resource://gre/modules/IndexedDBHelper.jsm, line 138: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1490771594930	geckodriver	INFO	Listening on 127.0.0.1:50777
+1490771595994	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.k6EaAcE55ltX
+1490771595995	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490771596001	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58177
+Xlib:  extension "RANDR" missing on display "localhost:15.0".
+1490771634791	geckodriver	INFO	Listening on 127.0.0.1:46648
+1490771635855	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.bdxuLRipz6d9
+1490771635856	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490771635861	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39251
+Xlib:  extension "RANDR" missing on display "localhost:15.0".
+1490771669771	geckodriver	INFO	Listening on 127.0.0.1:55103
+1490771670837	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.IUEKEj44OzDL
+1490771670838	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490771670847	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42026
+Xlib:  extension "RANDR" missing on display "localhost:15.0".
+JavaScript error: resource://gre/modules/IndexedDBHelper.jsm, line 138: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1490771751195	geckodriver	INFO	Listening on 127.0.0.1:38859
+1490771752264	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.G99j5E8x3B69
+1490771752265	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490771752271	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60628
+Xlib:  extension "RANDR" missing on display "localhost:15.0".
+1490771795892	geckodriver	INFO	Listening on 127.0.0.1:38698
+1490771796960	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.86cyZsgeXYAP
+1490771796962	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490771796968	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46636
+Xlib:  extension "RANDR" missing on display "localhost:15.0".
+1490771852942	geckodriver	INFO	Listening on 127.0.0.1:51668
+1490771854007	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.2WSaKtvfEPKD
+1490771854056	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490771854063	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52522
+Xlib:  extension "RANDR" missing on display "localhost:15.0".
+1490771968754	geckodriver	INFO	Listening on 127.0.0.1:43721
+1490771969822	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.atOLX5ueNdmI
+1490771969823	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490771969829	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43018
+Xlib:  extension "RANDR" missing on display "localhost:15.0".
+1490771975441	geckodriver	INFO	Listening on 127.0.0.1:51822
+1490771976509	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HAdq3RNv6WCu
+1490771976510	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args []
+1490771976517	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59386
+Xlib:  extension "RANDR" missing on display "localhost:15.0".
